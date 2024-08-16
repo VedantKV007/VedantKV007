@@ -3,11 +3,12 @@ About me
 
 **My code is cleaner than my room**
 
-* C++ Developer in Training 
-* HTML & CSS
-* Sometimes networking
-* MS-SQL
-* 3D Geometry and Maths
-* Also an [Android developer](https://github.com/Vedantgosling)
+* C++ Developer in Training 📚
+* HTML & CSS ✨
+* Sometimes networking 🌐
+* MS-SQL 📝
+* SFML
+* 3D Geometry and Maths 📐
+* Also an [Android developer](https://github.com/Vedantgosling) 📱
 
-* Fun fact:I will lay down my life for Optimus Prime
+* Fun fact:I will lay down my life for Optimus Prime 🤖
