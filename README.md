@@ -4,8 +4,8 @@ About me
 **My code is cleaner than my room**
 
 * C++ Developer in Training 📚
-* HTML & CSS ✨
 * SOLID 💪
+* HTML & CSS ✨
 * Sometimes networking 🌐
 * MS-SQL 📝
 * SFML
