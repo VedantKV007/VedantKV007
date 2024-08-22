@@ -5,6 +5,7 @@ About me
 
 * C++ Developer in Training 📚
 * HTML & CSS ✨
+* SOLID 💪
 * Sometimes networking 🌐
 * MS-SQL 📝
 * SFML
