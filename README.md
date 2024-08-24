@@ -5,6 +5,7 @@ About me
 
 * C++ Developer in Training 📚
 * SOLID 💪
+* Standard Template Library 🛠
 * HTML & CSS ✨
 * Sometimes networking 🌐
 * MS-SQL 📝
