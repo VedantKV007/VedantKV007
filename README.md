@@ -3,7 +3,7 @@ About me
 
 **My code is cleaner than my room**
 
-- C++/Java Web Developer in Training 📚
+- C++/Java Backend Developer in Training 📚
 - Spring Boot 🌿
 - SOLID 💪
 - Standard Template Library 🛠
