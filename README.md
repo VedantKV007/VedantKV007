@@ -1,7 +1,6 @@
 ## Hi there 👋
 About me
 
-**My code is cleaner than my room**
 
 - C++/Java Backend Developer in Training 📚
 - Spring Boot 🌿
