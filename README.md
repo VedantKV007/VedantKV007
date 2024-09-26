@@ -1,5 +1,6 @@
 ## Hi there 👋
-About me
+About me - *If I keep my body moving, and my mind occupied at all times, 
+                     I will avoid falling into a bottomless pit of despair.*
 
 
 - C++/C Developer in Training 📚
