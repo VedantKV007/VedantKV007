@@ -11,4 +11,5 @@ About me
 - Sometimes Dot Net 🟪
 - Also an [Android developer/Java Web](https://github.com/Vedantgosling) 📱🌐
 
-* Fun fact : I will lay down my life for Optimus Prime 🤖
+
+*Fun fact about me - if I wanted to be humiliated I’d take a math test!
