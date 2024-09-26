@@ -12,4 +12,4 @@ About me
 - Also an [Android developer/Java Web](https://github.com/Vedantgosling) 📱🌐
 
 
-*Fun fact about me - if I wanted to be humiliated I’d take a math test!
+*Fun fact about me - if I wanted to be humiliated I’d take a math test!*
