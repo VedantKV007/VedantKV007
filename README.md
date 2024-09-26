@@ -12,5 +12,3 @@ About me - *If I keep my body moving, and my mind occupied at all times,
 - Sometimes Dot Net 🟪
 - Also an [Android developer/Java Web](https://github.com/Vedantgosling) 📱🌐
 
-
-*Fun fact about me - if I wanted to be humiliated I’d take a math test!*
