@@ -1,14 +1,13 @@
 ## Hi there 👋
-About me - *If I keep my body moving, and my mind occupied at all times, 
-                     I will avoid falling into a bottomless pit of despair.*
+About me 
 
 
-- C++/C Developer in Training 📚
+- C++ Developer in Training 📚
 - Standard Template Library 🛠
+- Python 🐍
 - Data Structures and Algorithms 🗂️
-- STL 🛠️ 
+- Bash and Docker 🐳
+- Linux🐧
 - MS-SQL and My-SQL 📝
-- Data Science and Visualization with Python 📊​
-- Sometimes Dot Net 🟪
 - Also an [Android developer/Java Web](https://github.com/Vedantgosling) 📱🌐
 
