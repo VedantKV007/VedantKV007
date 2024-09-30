@@ -2,12 +2,13 @@
 About me 
 
 
-- C++ Developer in Training 📚
+- C++/Java Developer in Training 📚
 - Standard Template Library 🛠
-- Python 🐍
+- Spring Boot,JPA & Maven
+- React JS
 - Data Structures and Algorithms 🗂️
+- HTML & CSS
 - Linux🐧
-- Bash ⬛
 - MS-SQL and My-SQL 📝
 - Also an [Android developer](https://github.com/Vedantgosling) 📱🌐
 
