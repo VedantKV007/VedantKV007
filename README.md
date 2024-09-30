@@ -9,5 +9,5 @@ About me
 - Linux🐧
 - Bash ⬛
 - MS-SQL and My-SQL 📝
-- Also an [Android developer/Java Web](https://github.com/Vedantgosling) 📱🌐
+- Also an [Android developer](https://github.com/Vedantgosling) 📱🌐
 
