@@ -8,6 +8,7 @@ About me -
 - Spring Boot,JPA & Maven 🌿
 - React JS ⚛️
 - Data Structures and Algorithms 🗂️
+- Python 🐍
 - HTML & CSS ✨
 - Linux🐧
 - MS-SQL and My-SQL 📝
