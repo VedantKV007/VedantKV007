@@ -3,15 +3,14 @@ About me -
 
 
 
-- C++/Java Developer in Training 📚
-- Standard Template Library 🛠
+- GenAI/AI Application Developer in Training 📚
+- LangChain/LangGraph 🛠
 - Spring Boot,JPA & Maven 🌿
 - React JS ⚛️
-- Data Structures and Algorithms 🗂️
+- Anthropic API, Gemini API, RAG and MCP🗂️
 - Python 🐍
 - HTML & CSS ✨
-- Linux🐧
-- MS-SQL and My-SQL 📝
+- Prompt Engineering 📝
 - Also an [Android developer](https://github.com/Vedantgosling) 📱🌐
 
 
