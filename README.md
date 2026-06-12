@@ -11,7 +11,7 @@ About me -
 - Python 🐍
 - HTML & CSS ✨
 - Prompt Engineering 📝
-- Also an [Android developer](https://github.com/Vedantgosling) 📱🌐
+
 
 
 
